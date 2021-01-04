@@ -1,3 +1,4 @@
 this is file2
 this is the 2nd line of 2nd file -- changed by 1st developer -- to be deleted
 this is the 3rd line of 2nd file by 2nd developer
+this is the first line added on day 2 
