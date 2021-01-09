@@ -1,3 +1,1 @@
-Hi this is the first file
-this is the second line in the first file
-this is the 3rd line in the first file
+This file would down the line contain add function
