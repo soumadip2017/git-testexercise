@@ -1,3 +1,2 @@
 this is file2
-this is the 3rd line of 2nd file by 2nd developer
-this is the first line added on day 2 , missed the date 4.1.2021
+this is file 2 2nd line
